@@ -1,0 +1,6 @@
+pyspark[sql]==3.5.3
+findspark
+notebook
+matplotlib
+seaborn
+groq
